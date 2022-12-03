@@ -1,0 +1,29 @@
+body{
+  padding:20px;
+  background-color:beige;
+}
+.bottomh{
+ position:absolute;
+ top:100%;
+ background-color:white;
+ width:100%;
+ color:white;
+}
+.bottomh h1{
+  text-align:center;
+  color:blue;
+}
+.titleheader{
+ text-align:center;
+ font-style:cursive;
+}
+.links{
+  color:beige;
+}
+.bottomh a:hover{
+  color:green;
+}
+img{
+  height:100px;
+  width:100px;
+}
