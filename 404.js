@@ -1,3 +1,3 @@
 if(window.undefined){
-  window.location.assign("404.txt");
+  window.location.assign("404");
 }
